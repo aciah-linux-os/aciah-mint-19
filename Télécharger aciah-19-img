@@ -1,0 +1,7 @@
+Pour créer une clé bootable de Aciah-19, on peut partir de l'image aciah-19-img .
+Ce nr'est pas une iso, c'est une image qui fournit le système complet avec tous les outils d ecompensation du handicap qui ont été ajouté à Linux-Mint-19
+
+Voici le lien de téléchargement :
+https://aciah-linux.org/Telecharger/aciah-19-img.zip
+
+Il faut ensuite dézipper dans /home/
